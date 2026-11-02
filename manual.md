@@ -18,11 +18,11 @@ Everything the app does, screen by screen. Most of it you will never need to rea
 
 ## 1. Setting up
 
-The first time you open the app it asks five things: a little about you (birth year, sex, height and weight), your goal (lose weight, gain muscle or maintain), what equipment you have at home, how many days a week and how long you can train, and any body areas to go easy on, such as knees or lower back.
+The first time you open the app it asks a few things: a little about you (birth year, sex, height and weight), your goal (lose weight, gain muscle or maintain), how much you have trained before, how many days a week and how long you can train, how active your days are, what equipment you have at home, and any body areas to go easy on, such as knees or lower back. If you close the app partway through, it picks up where you left off. You can change any of these answers later in Settings, under *You*. Answers your plan is built from, such as your goal, schedule or equipment, change together with a new plan: choose *Keep current plan* and they stay as they were, so Settings always matches the plan you are following.
 
 From that it builds a four-week plan and shows it to you for review. You can swap any exercise, add or remove exercises, remove a day, or ask for a completely different plan before you approve it. Week 4 is a lighter recovery week on purpose.
 
-Experience level matters: beginners get simpler variations and fewer sets; advanced users get harder variations and more volume. Any answer can be changed later from the Plan tab's editor, and your goal and schedule can also change through the weekly review.
+Experience level matters: beginners get simpler variations and fewer sets; advanced users get harder variations and more volume. Exercises can be changed any time from the Plan tab's editor, and your goal and schedule can also change through the weekly review.
 
 ## 2. The Today screen
 
@@ -57,7 +57,7 @@ Weeks are rarely perfect, so the plan bends rather than breaks.
 
 The Plan tab shows all four weeks. Pick a week to see each training day, its exercises, sets and target weights. Tap an exercise for instructions and a photo.
 
-The sliders icon opens the editor: swap exercises, add or remove exercises, or remove a day from a given week onwards. The circular-arrows icon builds a brand new plan from your profile. Rebuilding is free until you have logged a workout on the current plan; after that it is part of [Pro](#10-homefit-pro).
+The sliders icon opens the editor: swap exercises, add or remove exercises, or remove a day from a given week onwards. The circular-arrows icon builds a brand new plan from your profile. Rebuilding is free until you have logged a workout on the current plan; after that it is part of [Pro](#11-homefit-pro).
 
 When the four weeks are over, Today shows a *Plan complete* card with a *Build next plan* button.
 
@@ -85,14 +85,14 @@ Settings lets you turn on workout reminders at a time you choose. They skip days
 ## 9. Backups, sync and reset
 
 - **iCloud sync** is automatic when you are signed in to iCloud. Your data lives in your own private iCloud and is never visible to us. See the [privacy policy](privacy).
-- **Export data** writes a single JSON file with your profile, plans, workouts and body entries. **Import data** replaces everything with such a file. Both are part of [Pro](#10-homefit-pro).
+- **Export data** writes a single JSON file with your profile, plans, workouts and body entries. **Import data** replaces everything with such a file. Both are part of [Pro](#11-homefit-pro).
 - **Reset everything** deletes all your data and returns to setup. It cannot be undone.
 
 ## 10. Eating for your plan
 
 Training is half the picture, so the app also tells you how to eat for your goal, without any food logging. Open *Eating for this plan* from the Plan tab, the fuel card on Today, or Settings.
 
-- **Daily targets.** Calories, protein, carbs and fat for training days and rest days, worked out from your sex, age, height, latest weigh-in, goal, chosen pace and how much you train. They update whenever any of those change, so a new weigh-in moves them. Weight loss is never taken below a healthy minimum; if your pace would need that, the guide says so and the loss is a little slower.
+- **Daily targets.** Calories, protein, carbs and fat for training days and rest days, worked out from your sex, age, height, latest weigh-in, goal, chosen pace, how much you train and how active your days are, which you can change in Settings. They update whenever any of those change, so a new weigh-in moves them. Weight loss is never taken below a healthy minimum; if your pace would need that, the guide says so and the loss is a little slower.
 - **Your plate.** Hand portions for each meal: a palm of protein, a fist of vegetables, a cupped hand of carbs and a thumb of fat, with the counts set from your targets. No scales needed.
 - **Food lists.** What to reach for in each group and what to keep rare, trimmed to what you eat (everything, vegetarian or vegan, with a no-pork switch).
 - **Habits.** A few lines that matter more than any number: protein at every meal, a meal within two hours after training, water.
